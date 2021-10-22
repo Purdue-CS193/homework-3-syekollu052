@@ -3,7 +3,7 @@ Hello, Sreeya! Are you excited for Halloween?
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-It gets all the commits from GitHub to your local repository, but it doesn't change it.
+It gets all the commits from GitHub to your local repository, but it doesn't change the local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
